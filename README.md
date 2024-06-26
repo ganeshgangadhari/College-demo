@@ -1,4 +1,4 @@
 # College-demo
 New project 
 <br>
-Author- Ganesh Gangadhari 
+Author- Ganesh Prabhakar Gangadhari 
